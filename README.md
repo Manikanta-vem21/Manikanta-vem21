@@ -4,7 +4,7 @@
 
 - 📫 How to reach me ? through email
 
-- ⚡ Fun fact: i am still a learner so i dont know much abt github..:)
+- ⚡ Fun fact: i am still a learner so i dont know much abt github..  :)
 
 <!---
 Manikanta-vem21/Manikanta-vem21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
